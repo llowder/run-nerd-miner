@@ -1,0 +1,5 @@
+{
+ :config-version "0.0.1"
+ :source-data-dir "c:/users/friedbob/rundata/sources"
+ :graph-data-dir "c:/users/friedbob/rundata/graphs"
+ }
